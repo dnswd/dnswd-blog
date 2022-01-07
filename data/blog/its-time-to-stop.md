@@ -34,6 +34,11 @@ started over. I finally realized why my friends called me a masochist.
 
 ## This blog is up 🎉
 
+I decided to not reuse any part of my older project to help me clean up some space and build a fresh
+start. I already have responsibilities, so I used
+[tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) to kickstart
+instead.
+
 Yay, a dream comes true! But I already forgot stories in my freshman years. The reason I want a blog
 is for me to record my journey into computer science, and I'm already finished my 5th semester.
 
